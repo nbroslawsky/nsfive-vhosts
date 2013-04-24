@@ -1,0 +1,13 @@
+{
+	"name" : "nsfive-vhosts",
+	"version" : "0.0.1",
+	"author" : "Nathan Broslawsky <nathan.broslawsky@nsfive.com>",
+	"scripts" : {
+		"start" : "node ./index.js"
+	},
+	"main" : "./index.js",
+	"dependencies" : {
+		"async": "0.2.x",
+		"express": "3.x"
+	}
+}
